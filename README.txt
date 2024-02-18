@@ -1,4 +1,4 @@
-The folder contains a word file, a csv file a python notebook and an R Script.
+## The folder contains a word file, a csv file a python notebook and a Python Notebook.
 
 Details and Instructions on how to run them:
 
@@ -7,3 +7,5 @@ Details and Instructions on how to run them:
 2. Credit Card Customer Segmentation.pdf : This is the project report. It contains detailed explanation of the project. You may open it on Adobe Reader.
 
 3. Credit Card Segmentation.ipynb: This is the python code. You may open it on Jupyter Notebook.
+
+
